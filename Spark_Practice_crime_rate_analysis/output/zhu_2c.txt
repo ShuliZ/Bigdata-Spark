@@ -1,0 +1,18 @@
+The numbers of crime events from 2004 to 2010 when Daly was in charge are
+469392
+453728
+448131
+437036
+427086
+392751
+370379
+The numbers of crime events from 2011 to 2017 when Emanuel was in charge are
+351852
+336102
+307247
+275475
+264370
+269343
+268564
+The p value obtained from chi-square test is
+0.0

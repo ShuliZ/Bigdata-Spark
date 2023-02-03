@@ -1,0 +1,2 @@
+The MSE for all crime cases is 18.215999135176286
+The MSE for violent crime cases is 2.6432616009325884
